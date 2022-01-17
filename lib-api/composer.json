@@ -1,0 +1,11 @@
+{
+    "name": "api/lib-api",
+    "description": "Simple tmd api class",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Api\\TmdApi\\": "src/"
+        }
+    }
+}
